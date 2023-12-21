@@ -7,10 +7,8 @@
 <p> This example is for educational purposes and should not be used for unauthorized scanning. Professional network scanning tools, like Nmap, undergo rigorous development, testing, and compliance with ethical standards. If you are interested in network security, consider studying ethical hacking and obtaining relevant certifications to ensure responsible and legal use of such tools. </p>
 
 <h2> How to Use: </h2>
-
-<p> 
-1. Clone this git to your linux machine.
-2. Go to the git directory.
-3. Run the program using the command <b>"python2 custom_nmap.py"</p>>
-And Enjoy!
-</p>
+ 
+<p> 1. Clone this git to your linux machine. </p>
+<p> 2. Go to the git directory. </p>
+<p> 3. Run the program using the command <b>"python2 custom_nmap.py" </p>>
+<p> And Enjoy!</p>
