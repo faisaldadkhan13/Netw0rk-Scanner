@@ -12,3 +12,6 @@
 <p> 2. Go to the git directory. </p>
 <p> 3. Run the program using the command <b>"python2 custom_nmap.py" </p>>
 <p> And Enjoy!</p>
+
+
+**By Faisal Dad Khan**
